@@ -65,15 +65,14 @@ nav{
     margin: 0px auto;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 nav .menu{
     display: flex;
     list-style-type: none;
     gap: 51px;
-    align-items: center;
-    
-    
+    align-items: center; 
 }
 
 nav .manu a{
